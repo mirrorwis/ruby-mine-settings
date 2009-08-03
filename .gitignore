@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+codestyles/Default _1_.xml
+colors/Anders.xml
+colors/DSL friendly.xml
+colors/Presentation.xml
+colors/VibrantInk.xml
+componentVersions/
+disabled_plugins.txt
+disabled_update.txt
+inspection/
+options/
+rubymine10.key
+settings.jar
+templates/rails.xml
+templates/ruby rspec.xml
+templates/ruby.xml
