@@ -9,12 +9,12 @@ Installation
 ------------
   To install you need to navigate into your existing directory. Since git doesn't let you clone into an existing directory you need to init a repo and add as a remote origin as shown below.
 
-> cd ~/Library/Preferences/RubyMine10
-> git init
-> git remote add origin git@github.com:factorylabs/ruby-mine-settings.git
-> git fetch
-> git branch master origin/master
-> git checkout master
+    cd ~/Library/Preferences/RubyMine10
+    git init
+    git remote add origin git@github.com:factorylabs/ruby-mine-settings.git
+    git fetch
+    git branch master origin/master
+    git checkout master
 
 Then relaunch RubyMine
 
