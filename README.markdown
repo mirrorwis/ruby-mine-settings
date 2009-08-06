@@ -21,18 +21,18 @@ Then relaunch RubyMine
 
 Colors
 ------
-  Less Vibrant Ink - a slightly more pastel version of the Vibrant Ink Textmate theme  
-  colorblind - think rainbows and unicorns with a warm fuzzy.
+  **Less Vibrant Ink** - a slightly more pastel version of the Vibrant Ink Textmate theme  
+  **colorblind** - think rainbows and unicorns with a warm fuzzy.
   
 Keymaps
 -------
-  Textmate for Realz - adds missing commands not found in the standard keymap provided with RM.  
-  MK - basically the default scheme with some altered shortcuts for code completion, more to come with this one.
+  **Textmate for Realz** - adds missing commands not found in the standard keymap provided with RM.  
+  **MK** - basically the default scheme with some altered shortcuts for code completion, more to come with this one.
   
 Templates
 ---------
-  Shoulda - context template for shoulda
+  **Shoulda** - context template for shoulda
   
 Codestyles
 ----------
-  Factory - the standard indent settings here at factory.
+  **Factory** - the standard indent settings here at factory.
