@@ -21,12 +21,12 @@ Then relaunch RubyMine
 
 Colors
 ------
-  Less Vibrant Ink - a slightly more pastel version of the Vibrant Ink Textmate theme
+  Less Vibrant Ink - a slightly more pastel version of the Vibrant Ink Textmate theme  
   colorblind - think rainbows and unicorns with a warm fuzzy.
   
 Keymaps
 -------
-  Textmate for Realz - adds missing commands not found in the standard keymap provided with RM.
+  Textmate for Realz - adds missing commands not found in the standard keymap provided with RM.  
   MK - basically the default scheme with some altered shortcuts for code completion, more to come with this one.
   
 Templates
