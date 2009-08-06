@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="MK" parent="Default for Mac OS X">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="control SPACE" />
+    <keyboard-shortcut first-keystroke="alt ESCAPE" />
+    <keyboard-shortcut first-keystroke="shift SPACE" />
+  </action>
+</keymap>
+
