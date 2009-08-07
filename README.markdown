@@ -22,7 +22,7 @@ Then relaunch RubyMine
 Colors
 ------
   **Less Vibrant Ink** - a slightly more pastel version of the Vibrant Ink Textmate theme  
-  **colorblind** - think rainbows and unicorns with a warm fuzzy.
+  **colorblind** - think rainbows and unicorns with a warm fuzzy. :: *updated 08.07.09 with minor color adjustments*
   
 Keymaps
 -------
