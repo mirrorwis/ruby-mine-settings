@@ -542,7 +542,7 @@
     </option>
     <option name="HAML_ID">
       <value>
-        <option name="FOREGROUND" value="ff00ff" />
+        <option name="FOREGROUND" value="80ff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -582,7 +582,7 @@
     </option>
     <option name="HAML_TAG">
       <value>
-        <option name="FOREGROUND" value="80ff" />
+        <option name="FOREGROUND" value="96cdff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -612,7 +612,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="96cdff" />
+        <option name="FOREGROUND" value="ff9600" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -662,7 +662,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="80ff" />
+        <option name="FOREGROUND" value="96cdff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -902,7 +902,7 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ff6400" />
+        <option name="FOREGROUND" value="ffcd00" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -922,7 +922,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ffcd00" />
+        <option name="FOREGROUND" value="ff9600" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1272,7 +1272,7 @@
     </option>
     <option name="RUBY_ATTR_ACCESSOR_CALL">
       <value>
-        <option name="FOREGROUND" value="ff9600" />
+        <option name="FOREGROUND" value="ff6400" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1282,7 +1282,7 @@
     </option>
     <option name="RUBY_ATTR_READER_CALL">
       <value>
-        <option name="FOREGROUND" value="ff9600" />
+        <option name="FOREGROUND" value="ff6400" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1292,7 +1292,7 @@
     </option>
     <option name="RUBY_ATTR_WRITER_CALL">
       <value>
-        <option name="FOREGROUND" value="ff9600" />
+        <option name="FOREGROUND" value="ff6400" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1352,7 +1352,7 @@
     </option>
     <option name="RUBY_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ff6400" />
+        <option name="FOREGROUND" value="ff9600" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1452,7 +1452,7 @@
     </option>
     <option name="RUBY_IMPORT_CALL">
       <value>
-        <option name="FOREGROUND" value="ffcd00" />
+        <option name="FOREGROUND" value="ffff00" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1612,7 +1612,7 @@
     </option>
     <option name="RUBY_REQUIRE_CALL">
       <value>
-        <option name="FOREGROUND" value="ffcd00" />
+        <option name="FOREGROUND" value="ffff00" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1792,7 +1792,7 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="96cdff" />
+        <option name="FOREGROUND" value="ff9600" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1862,7 +1862,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="80ff" />
+        <option name="FOREGROUND" value="96cdff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
