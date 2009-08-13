@@ -5,6 +5,10 @@
     <keyboard-shortcut first-keystroke="shift control K" />
   </action>
   <action id="EditorEscape" />
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift meta MULTIPLY" />
+    <keyboard-shortcut first-keystroke="control meta C" />
+  </action>
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt SLASH" />
     <keyboard-shortcut first-keystroke="ESCAPE" />
