@@ -11,7 +11,7 @@ Installation
 
     cd ~/Library/Preferences/RubyMine10
     git init
-    git remote add origin git@github.com:factorylabs/ruby-mine-settings.git
+    git remote add origin git://github.com/factorylabs/ruby-mine-settings.git
     git fetch
     git branch master origin/master
     git checkout master
