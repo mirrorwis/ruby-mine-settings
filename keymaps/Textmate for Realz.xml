@@ -16,12 +16,24 @@
     <keyboard-shortcut first-keystroke="alt SLASH" />
     <keyboard-shortcut first-keystroke="ESCAPE" />
   </action>
+  <action id="Move" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="control meta M" />
   </action>
+  <action id="NextDiff" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift control F10" />
     <keyboard-shortcut first-keystroke="shift meta R" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="F6" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="F7" />
+  </action>
+  <action id="StepInto" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="0" />
   </action>
 </keymap>
 
