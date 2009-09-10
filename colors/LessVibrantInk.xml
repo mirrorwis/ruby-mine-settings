@@ -503,7 +503,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="e8bf6b" />
+        <option name="FOREGROUND" value="ffcc00" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -513,7 +513,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="a4c261" />
+        <option name="FOREGROUND" value="86ad2f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -523,7 +523,7 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="bd9559" />
+        <option name="FOREGROUND" value="c0c0c0" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -543,7 +543,7 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="e8bf6b" />
+        <option name="FOREGROUND" value="6699ff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -553,7 +553,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e8bf6b" />
+        <option name="FOREGROUND" value="4a7eb0" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1056,8 +1056,8 @@
         <option name="FOREGROUND" value="ff0000" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
@@ -1183,11 +1183,11 @@
     </option>
     <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="ff0000" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
@@ -1313,7 +1313,7 @@
     </option>
     <option name="RUBY_REGEXP">
       <value>
-        <option name="FOREGROUND" value="a4c261" />
+        <option name="FOREGROUND" value="81a5c9" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -1343,7 +1343,7 @@
     </option>
     <option name="RUBY_STRING">
       <value>
-        <option name="FOREGROUND" value="a4c261" />
+        <option name="FOREGROUND" value="95bf32" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
