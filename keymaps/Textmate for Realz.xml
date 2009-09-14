@@ -4,7 +4,6 @@
     <keyboard-shortcut first-keystroke="shift control meta M" />
   </action>
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="meta Y" />
     <keyboard-shortcut first-keystroke="shift control K" />
   </action>
   <action id="EditorEscape" />
@@ -21,6 +20,9 @@
     <keyboard-shortcut first-keystroke="control meta M" />
   </action>
   <action id="NextDiff" />
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="control BACK_QUOTE" />
+  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift control F10" />
     <keyboard-shortcut first-keystroke="shift meta R" />
@@ -34,6 +36,9 @@
   <action id="StepInto" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="control X" second-keystroke="0" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="control meta V" />
   </action>
 </keymap>
 

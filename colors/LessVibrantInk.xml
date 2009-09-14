@@ -1023,7 +1023,7 @@
     </option>
     <option name="RUBY_ATTR_ACCESSOR_CALL">
       <value>
-        <option name="FOREGROUND" value="d94838" />
+        <option name="FOREGROUND" value="d95638" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -1033,7 +1033,7 @@
     </option>
     <option name="RUBY_ATTR_READER_CALL">
       <value>
-        <option name="FOREGROUND" value="d94838" />
+        <option name="FOREGROUND" value="d95638" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -1043,7 +1043,7 @@
     </option>
     <option name="RUBY_ATTR_WRITER_CALL">
       <value>
-        <option name="FOREGROUND" value="d94838" />
+        <option name="FOREGROUND" value="d95638" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -1093,7 +1093,7 @@
     </option>
     <option name="RUBY_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="cc3300" />
+        <option name="FOREGROUND" value="bf3000" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1203,7 +1203,7 @@
     </option>
     <option name="RUBY_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc783c" />
+        <option name="FOREGROUND" value="de772d" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -1323,7 +1323,7 @@
     </option>
     <option name="RUBY_REQUIRE_CALL">
       <value>
-        <option name="FOREGROUND" value="ffff00" />
+        <option name="FOREGROUND" value="e3e300" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -1364,6 +1364,36 @@
     <option name="RUBY_WORDS">
       <value>
         <option name="FOREGROUND" value="509e4f" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="6d9cbf" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="ff9933" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="f0f000" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
