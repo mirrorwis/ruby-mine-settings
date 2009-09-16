@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="shift meta MULTIPLY" />
     <keyboard-shortcut first-keystroke="control meta C" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta T" />
+  </action>
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt SLASH" />
     <keyboard-shortcut first-keystroke="ESCAPE" />
@@ -18,6 +21,9 @@
   <action id="Move" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="control meta M" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="shift meta N" />
   </action>
   <action id="NextDiff" />
   <action id="QuickChangeScheme">
