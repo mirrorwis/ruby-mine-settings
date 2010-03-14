@@ -23,6 +23,7 @@ Colors
 ------
   **Less Vibrant Ink** - a slightly more pastel version of the Vibrant Ink Textmate theme  
   **colorblind** - think rainbows and unicorns with a warm fuzzy. :: *updated 08.19.09 with minor color adjustments*
+  **snowblind** - think rainbows and unicorns with a warm fuzzy, only in white.
   
 Keymaps
 -------
