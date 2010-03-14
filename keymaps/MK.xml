@@ -5,5 +5,16 @@
     <keyboard-shortcut first-keystroke="alt ESCAPE" />
     <keyboard-shortcut first-keystroke="shift SPACE" />
   </action>
+  <action id="CollapseBlock" />
+  <action id="CollapseSelection" />
+  <action id="HippieBackwardCompletion">
+    <keyboard-shortcut first-keystroke="shift alt SLASH" />
+    <keyboard-shortcut first-keystroke="shift meta PERIOD" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt SLASH" />
+    <keyboard-shortcut first-keystroke="meta PERIOD" />
+  </action>
+  <action id="InsertRubyInjection" />
 </keymap>
 
